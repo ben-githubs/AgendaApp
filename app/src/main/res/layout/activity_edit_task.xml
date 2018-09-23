@@ -24,7 +24,7 @@
                 android:ems="10"
                 android:fadingEdge="horizontal"
                 android:inputType="textPersonName"
-                android:text="Name" />
+                android:text="@string/edit_name" />
 
             <View
                 android:id="@+id/divider"
@@ -54,7 +54,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-                    android:text="Today" />
+                    android:text="@string/edit_date_def" />
 
             </LinearLayout>
 
@@ -85,7 +85,7 @@
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:gravity="center_vertical"
-                    android:text="Repeat every..." />
+                    android:text="@string/edit_repeat" />
             </LinearLayout>
 
             <View

@@ -1,3 +1,25 @@
 <resources>
+    <!-- General Words and Phrases -->
     <string name="app_name">Agenda</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+    <!-- Edit Task Stuff -->
+    <string name="edit_name">Name</string>
+    <string name="edit_date_def">Today</string>
+    <string name="edit_repeat">Repeats on...</string>
+    <string name="edit_colour">Change colour</string>
+
+    <!-- Repeat Stuff -->
+    <string name="repeat_every">Repeat every</string>
+    <string-array name="repeat_options">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+    <string name="repeat_ends">Ends</string>
+    <string name="repeat_ends_on">On</string>
+    <string name="repeat_occurances1">After</string>
+    <string name="repeat_occurances2">occurance(s)</string>
 </resources>
